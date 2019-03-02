@@ -9,6 +9,8 @@ Prog.kiev.ua. Java Start. Группа 2019-1
 
 [Java Start. Богдан. 2019-1. Лекции 5-6 (23.02.2019)](https://prog.kiev.ua/forum/index.php/topic,4155.0.html)
 
+[Java Start. Богдан. 2019-1. Лекции 7-8 (02.03.2019)](https://prog.kiev.ua/forum/index.php/topic,4170.0.html)
+
 ## Запуск проекта локально в Intellij IDEA
 
 1. Скачать исходный код в виде архива (кнопка **Clone or download**).

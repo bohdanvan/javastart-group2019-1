@@ -6,8 +6,9 @@ package com.bvan.javastart.lessons7_8.method;
 public class TrianglePrinter {
 
     public static void main(String[] args) {
-        // printTriangle(10);
-        printLine(-10);
+        printTriangle(10);
+        printTriangle(5);
+//        printTriangle(-10);
     }
 
     public static void printTriangle(int size) {
