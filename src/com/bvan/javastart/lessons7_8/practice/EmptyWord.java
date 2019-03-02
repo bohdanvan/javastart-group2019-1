@@ -1,4 +1,4 @@
-package com.bvan.javastart.lessons7_8.method;
+package com.bvan.javastart.lessons7_8.practice;
 
 /**
  * @author bvanchuhov
